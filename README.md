@@ -17,7 +17,7 @@ Secure Document Saving and Sharing Using IPFS, Blockchain and Encryption.
  *Clone the repository to your loacal machine*
  
 
-    git clone https://github.com/aptgetinfo/MemoLock.git
+    git clone https://github.com/adityaaggarwal12/MemoLock.git
     
  *Change Directory to the base folder*
  
